@@ -12,7 +12,7 @@ class Backer
     new_project = Project.new(project)
     @backed_projects << project
   end
-    
+
 
 
 end
